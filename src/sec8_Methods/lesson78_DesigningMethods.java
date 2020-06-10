@@ -21,4 +21,7 @@ public class lesson78_DesigningMethods {
 //    void void(){} //cant have keywords as methods name
     void $test(){}
     void _test(){}
+
+    public static void main(String[] args) {
+    }
 }
