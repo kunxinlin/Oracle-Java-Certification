@@ -30,7 +30,7 @@ public interface lesson106_Interface {
 
 
     //static can only be public, need to have a body
-    //if we implement 2 interface with same static method it will compile since we need to access it by interface name
+    //if we implement 2 interface with same static method it will compile since we need to access it by interface 2name
     public static void hello3(){  //redundant
         System.out.println("static hello3 from interface");
     }
